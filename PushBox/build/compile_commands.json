@@ -1,0 +1,42 @@
+[
+{
+  "directory": "F:/C++/PushBox/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/PushBox.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\PushBox.dir\\Src\\Box.cpp.obj -c F:\\C++\\PushBox\\Src\\Box.cpp",
+  "file": "F:/C++/PushBox/Src/Box.cpp"
+},
+{
+  "directory": "F:/C++/PushBox/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/PushBox.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\PushBox.dir\\Src\\Destination.cpp.obj -c F:\\C++\\PushBox\\Src\\Destination.cpp",
+  "file": "F:/C++/PushBox/Src/Destination.cpp"
+},
+{
+  "directory": "F:/C++/PushBox/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/PushBox.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\PushBox.dir\\Src\\Object.cpp.obj -c F:\\C++\\PushBox\\Src\\Object.cpp",
+  "file": "F:/C++/PushBox/Src/Object.cpp"
+},
+{
+  "directory": "F:/C++/PushBox/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/PushBox.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\PushBox.dir\\Src\\Player.cpp.obj -c F:\\C++\\PushBox\\Src\\Player.cpp",
+  "file": "F:/C++/PushBox/Src/Player.cpp"
+},
+{
+  "directory": "F:/C++/PushBox/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/PushBox.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\PushBox.dir\\Src\\Scence.cpp.obj -c F:\\C++\\PushBox\\Src\\Scence.cpp",
+  "file": "F:/C++/PushBox/Src/Scence.cpp"
+},
+{
+  "directory": "F:/C++/PushBox/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/PushBox.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\PushBox.dir\\Src\\Space.cpp.obj -c F:\\C++\\PushBox\\Src\\Space.cpp",
+  "file": "F:/C++/PushBox/Src/Space.cpp"
+},
+{
+  "directory": "F:/C++/PushBox/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/PushBox.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\PushBox.dir\\Src\\Wall.cpp.obj -c F:\\C++\\PushBox\\Src\\Wall.cpp",
+  "file": "F:/C++/PushBox/Src/Wall.cpp"
+},
+{
+  "directory": "F:/C++/PushBox/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/PushBox.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\PushBox.dir\\Src\\launch.cpp.obj -c F:\\C++\\PushBox\\Src\\launch.cpp",
+  "file": "F:/C++/PushBox/Src/launch.cpp"
+}
+]
